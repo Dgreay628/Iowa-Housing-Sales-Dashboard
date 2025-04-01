@@ -78,27 +78,42 @@ This structure integrates historical, property-specific, and predictive data to 
 
 ---
 
-## 📈 Business Impact
+## Data Preparation
 
-- 📈 Optimized pricing strategies for agents & investors
-- 🎯 Clear renovation priorities for higher ROI
-- 🧠 Actionable analytics for stakeholders
-- 🛠️ Scalable solution for evolving markets
+The data preparation process involved the following key steps:
 
----
+Data Cleaning: Addressed missing values, removed duplicates, and handled outliers to ensure data accuracy and consistency.
+Feature Engineering: Created derived features like LotSizeCategory and Percentage Error to enhance model performance.
+Data Transformation: Standardized numerical features (e.g., Lot_Area, Sale_Price) and encoded categorical variables (e.g., Bldg_Type, House_Style) for seamless integration into predictive models.
+Table Relationships: Established logical relationships between tables (e.g., df1, DateTable, Prediction_Table) to facilitate efficient querying and data exploration.
 
-## 🚀 Future Enhancements
+These steps ensured a clean, structured, and well-integrated dataset ready for analysis and predictive modeling.
 
-- Integrate macroeconomic data (interest rates, jobs)
-- Enable real-time insights with live data refresh
-- Expand geospatial analysis for market targeting
+![Data Preparation](data%20preparation.png)
 
 ---
 
-## 👤 Author
+## Model Selection
 
-**Donald Gray**  
-Senior BI Developer | Power BI | Azure | Microsoft Fabric  
-📧 djgray433@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/donald-gray-9576119b/)
+This dashboard leverages machine learning models developed using Microsoft Fabric to predict housing sale prices. A regression-based approach was employed, enabling the analysis of relationships between key property features (e.g., lot size, year built, and exterior condition) and sale prices. By integrating Microsoft Fabric's powerful data processing and modeling capabilities, the regression models provide accurate and actionable predictions, enhancing insights for real estate stakeholders.
+
+![Model Selection](Model%20Selection.png)
+
+---
+
+## Model Development
+
+The dashboard leverages the XGBoost Regressor, identified as the best-performing model through extensive evaluation of 46 different models. This regression model was trained on 2,413 selected data points, with 1,930 points used for training and 483 for cross-validation. Key metrics demonstrate the model's performance:
+
+R² (Coefficient of Determination): 1.0, indicating perfect predictive accuracy.
+Mean Squared Error (MSE): 23,040,876.2
+Mean Absolute Error (MAE): 11,031.6
+Median Absolute Error: 797.7
+Variance: 1.0
+
+This robust model development process highlights the efficacy of the chosen regression model in accurately predicting housing sale prices, providing reliable insights for stakeholders.
+
+![Model Development](Model%20development.png)
+
+
 
