@@ -16,7 +16,8 @@ A comprehensive data-driven approach included:
 
 The model delivered highly accurate predictions and a scalable framework for dynamic market forecasting.
 
-![Executive Summary](iexecutive%20summary.png)
+![Executive Summary](executive%20summary.png)
+
 
 ---
 
