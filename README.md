@@ -22,22 +22,19 @@ Housing sales are influenced by numerous factors, including location, property s
 
 ---
 
-## 🎯 Objectives
+## Problem Statement
 
-- Visualize housing sales trends across Iowa from 1872–2010  
-- Identify key features influencing home sale prices  
-- Deliver accurate predictions using machine learning  
-- Evaluate renovation ROI through case-based insights  
+How can we accurately predict the sale prices of homes using various property features, while understanding the key drivers that influence housing market trends? This includes addressing challenges such as handling diverse data types, capturing complex relationships, and ensuring actionable insights for real estate stakeholders like agents, buyers, and investors.
 
 ---
 
-## 🗂️ Data Overview
+## Objectives
 
-- **Source**: Kaggle (Ames Housing Dataset)
-- **Core Tables**:
-  - `df1`: Property details (lot size, basement, bedrooms, etc.)
-  - `DateTable`: Enables time-series slicing
-  - `Prediction_Table`: Predictions, errors, and MAE evaluation
+Visualize housing sales trends across Iowa over time.
+Identify key property features influencing sale prices.
+Optimize decision-making through predictive sales models.
+
+
 
 ---
 
