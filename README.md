@@ -34,7 +34,7 @@ Visualize housing sales trends across Iowa over time.
 Identify key property features influencing sale prices.
 Optimize decision-making through predictive sales models.
 
-
+![Objectives](objectives.png)
 
 ---
 
