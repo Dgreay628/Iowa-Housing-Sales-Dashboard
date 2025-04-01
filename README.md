@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 This dashboard visualizes key metrics related to housing sales, price trends, and the impact of various property features. It provides actionable insights to help stakeholders understand historical data, optimize pricing strategies, and identify key drivers of market performance.
 
@@ -14,9 +14,11 @@ This dashboard visualizes key metrics related to housing sales, price trends, an
 
 ---
 
-## 📌 Project Overview
+## Background
 
-**Goal**: Predict housing sale prices and uncover the most influential property features using 130+ years of historical data from Iowa.
+Housing sales are influenced by numerous factors, including location, property size, and market conditions. By analyzing over a century's worth of data, this dashboard enables a deeper understanding of market trends, helping real estate professionals and policymakers make informed decisions.
+
+![Background](background.png)
 
 ---
 
