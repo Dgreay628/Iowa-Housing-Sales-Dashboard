@@ -181,6 +181,126 @@ Poor external conditions lead to a 40% decrease in sale price.
 
 ![Exterior Condition](Exterior%20condition.png)
 
+---
+
+## Landscaping ROI
+
+Landscaping and marketing investments of $10,000 yield an ROI of 327%, leveraging high-lot properties' value.
+
+![Landscaping ROI](landscaping%20roi.png)
+
+![Case Comparison](Case%20comparison.png)
+
+---
+
+## Summary
+
+The analysis highlights actionable strategies to optimize property value through targeted renovations and enhancements. In Case 1, renovating homes to meet modern standards can significantly increase value, with post-2000 homes selling for 49% more than the average price. Conversely, properties with below-average basement sizes sell for 31.92% less. A renovation investment of $15,000 yields an impressive ROI of 111%. In Case 2, enhancing lot value and external conditions proves beneficial, as homes with lot areas exceeding 10,000 sqft sell for 36% more than the average price, while poor external conditions lead to a 40% drop in value. Landscaping and marketing investments of $10,000 deliver a remarkable ROI of 327%, leveraging the potential of high-lot properties. These insights provide a clear roadmap for maximizing property value through strategic improvements.
+
+---
+
+## Solution Impact
+
+The solution demonstrates a significant impact by leveraging data-driven insights to optimize property value. Renovations and enhancements targeting modern standards, lot size, and external conditions result in increased property appeal and marketability. Strategic investments, such as a $15,000 renovation yielding a 111% ROI and $10,000 landscaping generating a 327% ROI, highlight the effectiveness of targeted improvements. These actions empower real estate stakeholders to make informed decisions, enhance property performance, and maximize returns on investment.
+
+![Solution Impact](solution%20impact.png)
+
+---
+
+## Business Outcomes
+
+The implementation of this solution delivers significant business outcomes by combining predictive analytics, actionable insights, and data-driven decision-making. Key outcomes include:
+
+Increased Property Value: Targeted renovations and landscaping improvements lead to substantial ROI, such as 111% from modernization investments and 327% from landscaping, enhancing profitability for real estate stakeholders.
+
+Optimized Pricing Strategies: Accurate price predictions enable real estate agents and investors to set competitive yet profitable pricing, minimizing undervaluation or overpricing risks.
+
+Improved Decision-Making: Insights into the impact of features like lot size, basement size, and exterior conditions empower stakeholders to make informed investment and development decisions.
+
+Enhanced Market Position: By leveraging data-driven strategies, real estate professionals can attract buyers, improve client satisfaction, and strengthen their market presence.
+
+Scalability: The use of advanced machine learning models and Microsoft Fabric ensures a scalable solution that can adapt to future market trends and integrate additional data sources.
+
+This solution not only maximizes financial returns but also establishes a robust framework for long-term growth and innovation in the real estate sector.
+
+![Business Outcomes](buisness%20outcomes.png)
+
+---
+
+## Key Achievments
+
+![Key Achievements](key%20achievements.png)
+
+---
+
+## Challenges and Solutions
+
+Challenge: Managing data quality issues, such as missing values and outliers.
+
+Solution: Implemented rigorous data cleaning processes and standardized preprocessing techniques.
+
+Challenge: Balancing model complexity to avoid overfitting while maintaining accuracy.
+
+Solution: Utilized cross-validation and hyperparameter tuning for optimal model performance.
+
+Challenge: Interpreting complex relationships between diverse property features.
+
+Solution: Leveraged feature engineering and advanced visualization techniques to clarify key drivers.
+
+Challenge: Ensuring the scalability of the predictive system for future trends.
+
+Solution: Designed a flexible architecture using Microsoft Fabric to integrate additional data sources and support long-term adaptability.
+
+![Challenges and Solutions](challenges%20and%20solutions.png)
+
+---
+
+## Lessons Learned
+
+Data Integrity is Critical: Clean, well-prepared data is foundational for building reliable predictive models and generating actionable insights.
+
+Iterative Model Development: Testing and refining models through techniques like cross-validation and hyperparameter tuning ensures robust and accurate predictions.
+
+Visualization Enhances Understanding: Clear and interactive visualizations simplify complex relationships, enabling better communication of insights to stakeholders.
+
+Scalability Drives Long-Term Success: A flexible architecture allows for the integration of new data and adaptation to evolving trends, ensuring the solution remains relevant over time.
+
+![Lessons Learned](lessons%20learned.png)
+
+---
+
+## Future Capabilities
+
+Integration of Economic Trends: Incorporate external data, such as interest rates, inflation, and job growth, to enhance market forecasting and property value predictions.
+
+Real-Time Data Updates: Enable live data feeds for dynamic updates to predictions and insights, ensuring stakeholders have access to the latest market conditions.
+
+Enhanced Personalization: Develop algorithms that provide tailored recommendations for property improvements based on specific features and market demands.
+
+Geospatial Analysis Expansion: Improve geographical insights by integrating advanced mapping tools and regional trend analyses to identify high-value areas and growth opportunities.
+
+![Future Capabilities](future%20capabilities.png)
+
+---
+
+## References
+
+Microsoft Fabric Documentation (learn.microsoft.com/en-us/fabric/)
+Microsoft Power BI Resources (learn.microsoft.com/en-us/power-bi/)
+ChatGPT for AI-powered insights (chatgpt.com
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
