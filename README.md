@@ -155,7 +155,7 @@ Positive Insight: Homes built post-2000 sell for 49% more than the average price
 
 Properties with below-average basement sizes sell for 31.92% less than the average price.
 
-![image](https://github.com/user-attachments/assets/c2e60d87-3b01-45fd-a763-94e603b3d4e2)
+![Negative Insight](negative%20insight.png)
 
 
 
