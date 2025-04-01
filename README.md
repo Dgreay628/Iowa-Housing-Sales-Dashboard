@@ -115,5 +115,52 @@ This robust model development process highlights the efficacy of the chosen regr
 
 ![Model Development](Model%20development.png)
 
+---
+
+## Model Performance
+
+The XGBoost Regressor achieved exceptional performance during cross-validation:
+
+R²: 1.0 (perfect prediction accuracy).
+Mean Squared Error (MSE): 23,040,876.2 (measuring prediction error magnitude).
+Mean Absolute Error (MAE): 11,031.6 (average absolute prediction error).
+Median Absolute Error: 7,977.7 (midpoint absolute error).
+Variance: 1.0 (perfect fit consistency).
+
+These metrics indicate the model's effectiveness in accurately predicting housing sale prices.
+
+![Model Performance](model%20performance.png)
+
+---
+
+## Visualizations
+
+The dashboard provides key insights into housing sales trends and predictions, showcasing the relationship between predicted and actual sales through a scatter plot, which highlights the model's accuracy across various home types. A geographical heatmap visualizes price per square foot, identifying high-value areas. Key metrics include an average sales price of $176K (-6.5%), an average price per square foot of $169K (+0.6%), and a price per bedroom of $62K (+2.5%). The analysis highlights the impact of specific features, such as above-average basement sizes, which add a $69K premium, and larger lot sizes, which average $208K compared to $153K for smaller lots. Additionally, properties with excellent exterior conditions yield the highest prices, while poor conditions show a declining trend. Homes built post-2000 command a 49% higher premium, emphasizing the importance of modernization. These visualizations enable stakeholders to evaluate market trends, predict housing prices, and identify the most influential property features. 
+
+![Dashboard Overview](Dashboard%20overview.png)
+
+---
+
+## Case 1 Objective
+
+Optimize property conditions by renovating homes to meet modern standards.
+
+Positive Insight: Homes built post-2000 sell for 49% more than the average price.
+
+![Case 1 Objective](case%201%20objective.png)
+
+---
+
+## Negative Insights
+
+Properties with below-average basement sizes sell for 31.92% less than the average price.
+
+![image](https://github.com/user-attachments/assets/c2e60d87-3b01-45fd-a763-94e603b3d4e2)
+
+
+
+
+
+
 
 
