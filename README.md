@@ -7,14 +7,7 @@
 
 ## 📋 Executive Summary
 
-The project faced the challenge of accurately predicting home sale prices using diverse property features while managing complex relationships and ensuring clean, consistent data.
-
-A comprehensive data-driven approach included:
-- 📦 Cleaning and standardizing the dataset
-- 🧠 Model development using linear regression and random forest
-- 📊 Hyperparameter tuning to optimize performance
-
-The model delivered highly accurate predictions and a scalable framework for dynamic market forecasting.
+This dashboard visualizes key metrics related to housing sales, price trends, and the impact of various property features. It provides actionable insights to help stakeholders understand historical data, optimize pricing strategies, and identify key drivers of market performance.
 
 ![Executive Summary](executive%20summary.png)
 
