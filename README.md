@@ -157,6 +157,36 @@ Properties with below-average basement sizes sell for 31.92% less than the avera
 
 ![Negative Insight](negative%20insight.png)
 
+---
+
+## ROI
+
+Hypothetical renovation cost of $15,000 yields an ROI of 111%, based on the added value per property.
+
+![ROI Analysis](ROI.png)
+
+---
+
+## Case 2 Objective
+
+Positive Insight: Homes with lot areas >10,000 sqft sell for 36% more than the average price.
+
+![Case 2 Objective](case%202%20objective.png)
+
+---
+
+## Negative Insights
+
+Poor external conditions lead to a 40% decrease in sale price.
+
+![Exterior Condition](Exterior%20condition.png)
+
+
+
+
+
+
+
 
 
 
