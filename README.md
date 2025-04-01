@@ -38,43 +38,43 @@ Optimize decision-making through predictive sales models.
 
 ---
 
-## 🧪 Methodology
+## Data Overview
 
-### 🧼 Data Prep
-- Removed outliers, imputed missing values
-- Engineered features like `LotSizeCategory`, `Post2000Flag`, `PercentageError`
+Data Source:
+Historical housing sales data from 1872 to 2010. (Kaggle)
+Key Metrics:
+Average Sales Price
+Price per Bedroom
+ROI and Post-2000 Premium
+Basement Size Impact
+Lot Size and Exterior Condition Analysis
 
-### 🤖 Model Training
-- Evaluated 46 models using Microsoft Fabric
-- Final Model: `XGBoost Regressor`
-  - R²: 1.0
-  - MAE: 11,031.6
-  - MSE: 23M
+![Data Overview](data%20overview.png)
 
----
-
-## 📊 Visualizations
-
-- Heatmaps of property value by location
-- Predicted vs Actual scatter plot
-- Key driver bar charts
-- ROI simulation visuals
-
-📸 *More screenshots coming soon*
 
 ---
 
-## 💡 Case Study Highlights
+## System Architecture
 
-### Case 1: Modernization Strategy
-- 🟢 Post-2000 homes = +49% price premium  
-- 🔴 Small basements = -32% value  
-- 💰 Renovation ROI = 111%
+The dashboard integrates historical sales data, preprocessing pipelines, and advanced visualization techniques, ensuring a seamless and user-friendly interface for exploring insights.
 
-### Case 2: Lot Size & Curb Appeal
-- 🟢 Lots >10,000 sqft = +36% value  
-- 🔴 Poor exterior = -40% value  
-- 💰 Landscaping ROI = 327%
+![System Architecture](system%20architecture.png)
+
+---
+
+## Data Features
+
+The dataset is structured into three main tables:
+
+df1 Table: Contains core property details, such as basement category, lot area, bedrooms, building type, exterior condition, fireplaces, and geographical coordinates (latitude and longitude). It also includes temporal fields like listing date and decade.
+
+DateTable: Focused on temporal data, including date, day, month name, month number, and quarter, enabling time-based analysis.
+
+Prediction_Table: Features predictive metrics, such as sale price, predicted sales, absolute error, percentage error, and MAE (Mean Absolute Error). It also includes key property attributes like lot frontage, overall condition, and year built for prediction model evaluation.
+
+This structure integrates historical, property-specific, and predictive data to support robust analysis and accurate forecasting.
+
+![Data Features](data%20features.png)
 
 ---
 
