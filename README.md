@@ -289,6 +289,15 @@ Microsoft Fabric Documentation (learn.microsoft.com/en-us/fabric/)
 Microsoft Power BI Resources (learn.microsoft.com/en-us/power-bi/)
 ChatGPT for AI-powered insights (chatgpt.com
 
+---
+
+## Author
+
+**Donald Gray**  
+Senior BI Developer | Power BI | Microsoft Fabric  
+djgray433@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/donald-gray-9576119b/)
+
 
 
 
